@@ -1,3 +1,12 @@
+## Disclaimer
+
+**FlashKey** is an open-source tool, and while we aim to provide a secure and reliable solution for crypto asset storage, **users are solely responsible for the safekeeping of their private keys and assets**.
+
+- **No liability**: Developers and contributors are not liable for any loss or theft of funds. FlashKey is designed to provide users with full control over their crypto assets, but the responsibility to store and safeguard private keys rests entirely with the user.
+- **Risks of Bugs**: As with any open-source software, there may be bugs, vulnerabilities, or unforeseen issues. By using this software, you acknowledge and accept the risks involved.
+- **Backup and Recovery**: It is crucial to regularly back up your keys and recovery information. FlashKey does not store or back up private keys, so if you lose access to your keys, you may lose access to your funds.
+
+
 # FlashKey-py
 
 **FlashKey** as a concept is more than just a wallet. It’s a system for secure, decentralized storage of crypto assets with a strong focus on physical separation and a unique approach to data protection.
