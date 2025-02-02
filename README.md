@@ -9,6 +9,7 @@
 ## Вимоги
 
 [![Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
+[![xrpl-py](https://img.shields.io/badge/xrpl--py-latest-blue?logo=python)](https://pypi.org/project/xrpl-py/)
 
 
 
