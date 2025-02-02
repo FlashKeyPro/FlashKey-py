@@ -8,7 +8,7 @@
 
 ## Вимоги
 
-[![xrpl-py](https://img.shields.io/badge/xrpl--py-latest-green?logo=python)](https://pypi.org/project/xrpl-py/)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/xrpl-py.svg)](https://pypi.org/project/xrpl-py)
 
 
 
