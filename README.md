@@ -8,9 +8,7 @@
 
 ## Вимоги
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![xrpl-py](https://img.shields.io/badge/xrpl--py-latest-blue?logo=python)
-![stellar-sdk](https://img.shields.io/badge/stellar--sdk-latest-blue?logo=python)
+[![Documentation Status](https://readthedocs.org/projects/xrpl-py/badge)](https://xrpl-py.readthedocs.io/)
 
 
 
