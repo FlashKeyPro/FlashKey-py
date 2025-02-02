@@ -7,7 +7,10 @@
 - **Backup and Recovery**: It is crucial to regularly back up your keys and recovery information. FlashKey does not store or back up private keys, so if you lose access to your keys, you may lose access to your funds.
 
 ## Вимоги
-https://img.shields.io/badge/any_text-you_like-blue
+![Python](https://img.shields.io/badge/Python-3.8%2B-orange?logo=python)
+![xrpl-py](https://img.shields.io/badge/xrpl--py-latest-blue?logo=python)
+![stellar-sdk](https://img.shields.io/badge/stellar--sdk-latest-blue?logo=python)
+
 
 
 # FlashKey-py
