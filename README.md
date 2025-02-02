@@ -6,6 +6,12 @@
 - **Risks of Bugs**: As with any open-source software, there may be bugs, vulnerabilities, or unforeseen issues. By using this software, you acknowledge and accept the risks involved.
 - **Backup and Recovery**: It is crucial to regularly back up your keys and recovery information. FlashKey does not store or back up private keys, so if you lose access to your keys, you may lose access to your funds.
 
+## Вимоги
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![xrpl-py](https://img.shields.io/badge/xrpl--py-latest-blue?logo=python)
+![stellar-sdk](https://img.shields.io/badge/stellar--sdk-latest-blue?logo=python)
+
 
 # FlashKey-py
 
