@@ -1,5 +1,5 @@
 # FlashKey_Wallet
-FlashKey Wallet is a non-custodial wallet designed for the secure storage of XRP and XLM assets.
+**FlashKey Wallet is a non-custodial wallet designed for the secure storage of XRP and XLM assets.**
 
 ![Logotype](./flashkey.jpg)
 
@@ -11,17 +11,6 @@ FlashKey Wallet is a non-custodial wallet designed for the secure storage of XRP
 - **No liability**: Developers and contributors are not liable for any loss or theft of funds. FlashKey is designed to provide users with full control over their crypto assets, but the responsibility to store and safeguard private keys rests entirely with the user.
 - **Risks of Bugs**: As with any open-source software, there may be bugs, vulnerabilities, or unforeseen issues. By using this software, you acknowledge and accept the risks involved.
 - **Backup and Recovery**: It is crucial to regularly back up your keys and recovery information. FlashKey does not store or back up private keys, so if you lose access to your keys, you may lose access to your funds.
-
-## Вимоги
-
-[![Supported Versions](https://img.shields.io/pypi/pyversions/xrpl-py.svg)](https://pypi.org/project/xrpl-py)
-
-
-
-
-# FlashKey-py
-
-**FlashKey** as a concept is more than just a wallet. It’s a system for secure, decentralized storage of crypto assets with a strong focus on physical separation and a unique approach to data protection.
 
 ---
 
@@ -41,19 +30,6 @@ FlashKey Wallet is a non-custodial wallet designed for the secure storage of XRP
 
 5. **Convenience**  
    A flash drive becomes a universal tool, ready to use at any moment.
-
----
-
-## FlashKey is:
-
-- **A Storage Philosophy**  
-  You are your own "bank" for your assets. No intermediaries or servers involved.
-
-- **A Self-Protection Tool**  
-  Secure access is only possible with the physical device, acting as a "key."
-
-- **A Foundation for Future Innovations**  
-  While the wallet can evolve and gain additional features, its core idea remains unchanged.
 
 ---
 
