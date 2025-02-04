@@ -32,5 +32,35 @@
    A flash drive becomes a universal tool, ready to use at any moment.
 
 ---
+<!--Установка-->
+## Установка (Linux)
+
+1. Клонирование репозитория 
+
+```git clone https://github.com/FlashKeyPro/FlashKeyWallet.git```
+
+2. Переход в директорию FlashKeyWallet
+
+```cd FlashKeyWallet```
+
+3. Создание виртуального окружения
+
+```python -m venv virt```
+
+4. Активация виртуального окружения
+
+```source virt/bin/activate```
+
+5. Установка зависимостей
+
+```pip install xrpl-py```
+
+```pip install stellar-sdk```
+
+6. Запуск скрипта Кошелька
+
+```python FlashKey.py```
+
+
 
 FlashKey is not just a technology — it’s a culture of decentralized and secure storage that can attract a wide range of supporters in the crypto world. 🌟
