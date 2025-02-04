@@ -1,3 +1,6 @@
+# FlashKey_Wallet
+FlashKey Wallet is a non-custodial wallet designed for the secure storage of XRP and XLM assets.
+
 ## Disclaimer
 
 **FlashKey** is an open-source tool, and while we aim to provide a secure and reliable solution for crypto asset storage, **users are solely responsible for the safekeeping of their private keys and assets**.
