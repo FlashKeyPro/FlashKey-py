@@ -45,11 +45,9 @@ To ensure maximum security, I **highly recommend** performing this installation 
 2. **Insert another empty USB flash drive.**  
    This will be your secure storage for the FlashKey_Wallet.
 
-3. **Open the flash drive in the file manager.**  
-   Simply click on it to mount it.
-
-4. **Right-click inside the flash drive and open the terminal.**  
-   This is important! The terminal will open with the flash drive as the current working directory, so everything you install will go directly there.
+3. **Open the flash drive in the file manager and open a terminal in this directory.**  
+   (For example, right-click inside the flash drive and select "Open in Terminal").  
+   This is important! The terminal will open with the **flash drive as the current working directory**, so everything you install will go directly there.
 
 ## Installing the Wallet
 
