@@ -35,7 +35,7 @@
 <!--Installation-->
 ## Installation (Linux)
 
-1. Clone the repository
+1. Clone the Repository
 
 ```git clone https://github.com/FlashKeyPro/FlashKeyWallet.git```
 
@@ -43,21 +43,21 @@
 
 ```cd FlashKeyWallet```
 
-3. Create a virtual environment
+3. Create a Virtual Environment
 
 ```python -m venv virt```
 
-4. Activate the virtual environment
+4. Activate the Virtual Environment
 
 ```source virt/bin/activate```
 
-5. Install dependencies
+5. Install Dependencies
 
 ```pip install xrpl-py```
 
 ```pip install stellar-sdk```
 
-6. Run the Wallet script
+6. Run the Wallet Script
 
 ```python FlashKey.py```
 
