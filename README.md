@@ -43,7 +43,7 @@ To ensure maximum security, I **highly recommend** performing this installation 
    If you haven't created one yet, you can use tools like **Rufus** (Windows) or **dd** (Linux) to write the ISO to a USB drive.
 
 2. **Insert another empty USB flash drive.**  
-   This will be your secure storage for the wallet.
+   This will be your secure storage for the FlashKey_Wallet.
 
 3. **Open the flash drive in the file manager.**  
    Simply click on it to mount it.
