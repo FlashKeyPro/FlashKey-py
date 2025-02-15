@@ -33,33 +33,60 @@
 
 ---
 <!--Installation-->
-## Installation (Linux)
+# Installation (Linux)
 
-1. Clone the Repository
+To ensure maximum security, I **highly recommend** performing this installation in **Live USB mode**. The best choice for this is **Manjaro XFCE**—it's lightweight, fast, and perfect for the task.
 
-```git clone https://github.com/FlashKeyPro/FlashKeyWallet.git```
+## Preparing the Environment
 
-2. Navigate to the FlashKeyWallet directory
+1. **Boot into Manjaro XFCE Live USB.**  
+   If you haven't created one yet, you can use tools like **Rufus** (Windows) or **dd** (Linux) to write the ISO to a USB drive.
 
-```cd FlashKeyWallet```
+2. **Insert another empty USB flash drive.**  
+   This will be your secure storage for the wallet.
 
-3. Create a Virtual Environment
+3. **Open the flash drive in the file manager.**  
+   Simply click on it to mount it.
 
-```python -m venv virt```
+4. **Right-click inside the flash drive and open the terminal.**  
+   This is important! The terminal will open with the flash drive as the current working directory, so everything you install will go directly there.
 
-4. Activate the Virtual Environment
+## Installing the Wallet
 
-```source virt/bin/activate```
+Now, with the setup ready, follow these steps:
 
-5. Install Dependencies
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/FlashKeyPro/FlashKeyWallet.git
+   ```  
 
-```pip install xrpl-py```
+2. **Navigate to the FlashKeyWallet directory:**  
+   ```bash
+   cd FlashKeyWallet
+   ```  
 
-```pip install stellar-sdk```
+3. **Create a virtual environment:**  
+   ```bash
+   python -m venv virt
+   ```  
 
-6. Run the Wallet Script
+4. **Activate the virtual environment:**  
+   ```bash
+   source virt/bin/activate
+   ```  
 
-```python FlashKey.py```
+5. **Install dependencies:**  
+   ```bash
+   pip install xrpl-py
+   pip install stellar-sdk
+   ```  
+
+6. **Run the wallet script:**  
+   ```bash
+   python FlashKey.py
+   ```  
+
+Now your wallet is up and running **directly from the USB drive**, keeping it secure and isolated from your main system. 🚀
 
 
 
