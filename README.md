@@ -32,32 +32,32 @@
    A flash drive becomes a universal tool, ready to use at any moment.
 
 ---
-<!--Установка-->
-## Установка (Linux)
+<!--Installation-->
+## Installation (Linux)
 
-1. Клонирование репозитория 
+1. Clone the repository
 
 ```git clone https://github.com/FlashKeyPro/FlashKeyWallet.git```
 
-2. Переход в директорию FlashKeyWallet
+2. Navigate to the FlashKeyWallet directory
 
 ```cd FlashKeyWallet```
 
-3. Создание виртуального окружения
+3. Create a virtual environment
 
 ```python -m venv virt```
 
-4. Активация виртуального окружения
+4. Activate the virtual environment
 
 ```source virt/bin/activate```
 
-5. Установка зависимостей
+5. Install dependencies
 
 ```pip install xrpl-py```
 
 ```pip install stellar-sdk```
 
-6. Запуск скрипта Кошелька
+6. Run the Wallet script
 
 ```python FlashKey.py```
 
